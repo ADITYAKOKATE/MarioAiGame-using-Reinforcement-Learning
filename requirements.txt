@@ -7,3 +7,4 @@ torch
 opencv-python-headless
 matplotlib
 shimmy
+gevent
